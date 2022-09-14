@@ -1,5 +1,5 @@
 **Cole Snell** - *Germantown Academy 2024*
-- Previous coding experience in 8th grade Compsci
+- Previous coding experience in 9th grade Compsci
 - Reasons for taking Compsci
     - Interest in math and science
     - Good with numbers
